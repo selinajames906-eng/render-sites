@@ -1,0 +1,3 @@
+/order    https://example-affiliate-hoplink.com/audifort-adf    302
+/order/   https://example-affiliate-hoplink.com/audifort-adf    302
+/order/*  https://example-affiliate-hoplink.com/audifort-adf    302

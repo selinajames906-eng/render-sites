@@ -1,0 +1,16 @@
+{
+ "name": "Audifort Notebook",
+ "short_name": "Audifort",
+ "description": "Independent information and ordering website for Audifort liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#EDF9FA",
+ "theme_color": "#08717F",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
