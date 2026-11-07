@@ -1,0 +1,16 @@
+{
+ "name": "BackBiome Notebook",
+ "short_name": "BackBiome",
+ "description": "Independent information and ordering website for BackBiome liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#FDF1F6",
+ "theme_color": "#C0246F",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
