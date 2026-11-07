@@ -1,0 +1,16 @@
+{
+ "name": "NuNerve Notebook",
+ "short_name": "NuNerve",
+ "description": "Independent information and ordering website for NuNerve liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#EEF5FD",
+ "theme_color": "#1F5FA8",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
