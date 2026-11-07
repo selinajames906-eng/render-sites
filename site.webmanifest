@@ -1,0 +1,16 @@
+{
+ "name": "PurDentix Notebook",
+ "short_name": "PurDentix",
+ "description": "Independent information and ordering website for PurDentix liquid drops.",
+ "start_url": "/index.html",
+ "display": "standalone",
+ "background_color": "#EEF9F6",
+ "theme_color": "#0F7358",
+ "icons": [
+  {
+   "src": "assets/images/apple-touch-icon.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}

@@ -1,0 +1,3 @@
+/order    https://example-affiliate-hoplink.com/purdentix-pdx    302
+/order/   https://example-affiliate-hoplink.com/purdentix-pdx    302
+/order/*  https://example-affiliate-hoplink.com/purdentix-pdx    302
